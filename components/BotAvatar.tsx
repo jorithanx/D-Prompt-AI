@@ -9,3 +9,5 @@ const BotAvatar = () => {
 };
 
 export default BotAvatar;
+
+// hobby-session-5
