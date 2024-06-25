@@ -9,3 +9,5 @@ export function absoluteUrl(path: string) {
   return `${process.env.NEXT_PUBLIC_HOST}${path}`
 }
 // hobby-session-52
+
+// hobby-session-73
