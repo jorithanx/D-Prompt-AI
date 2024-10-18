@@ -46,3 +46,4 @@ export const POST = async (req: Request) => {
         return new NextResponse(`Internal error: ${err}`, { status: 500 });
     }
 }
+// hobby-session-104
